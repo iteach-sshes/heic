@@ -1,2 +1,2 @@
 # heic
-HEIC轉JPGの批次處理工具。
+HEIC轉JPG的批次處理工具。
